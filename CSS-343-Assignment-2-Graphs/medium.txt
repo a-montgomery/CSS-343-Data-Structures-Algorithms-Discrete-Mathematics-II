@@ -1,0 +1,37 @@
+Bacon, Kevin (I)	12th Annual Screen Actors Guild Awards (2006) (TV)  [Himself]
+			A Few Good Men (1992)  [Capt. Jack Ross]  <4>
+			Christmas in Rockefeller Center (2001) (TV)  [Himself]
+			Comic Con 2012 Live (2012) (TV)  [Himself]  <10>
+			Trapped (2002/I)  [Hickey]  <4>
+			"America's Game: The Superbowl Champions" (2006) {1996 Green Bay Packers (#1.5)}  [Narrator]
+			"Piers Morgan Tonight" (2011) {(2011-06-10)}  [Himself - Guest]
+
+One, Actor	12th Annual Screen Actors Guild Awards (2006) (TV)  [Character 1]
+		Broncho Billy and the Posse (1915)  <8>
+
+Two, Actor	12th Annual Screen Actors Guild Awards (2006) (TV)  [Character 2]
+		"Proper Manors" (2012) {Christmas Special: Christmas Party All the Time (#2.47)}  [Character 2]
+
+Three, Actor	A Few Good Men (1992)  [Gen. Jack Ripper]  <4>
+		"Mr. Pastry's Progress" (1962) {One Bob, One Job (#1.2)}  [Little Arthur]  <9>
+
+Four, Actor	"Proper Manors" (2012) {Christmas Special: Christmas Party All the Time (#2.47)}  [Character 4]
+		"What's My Line?" (1950) {(1963-07-07)}  [Himself - Guest Panelist]
+
+Five, Actor	"What's My Line?" (1950) {(1963-07-07)}  [Character 5]
+		"Shoebox Zoo" (2004) {Friend or Foe? (#1.2)}  (voice)  [Bruno the Bear]  <7>
+
+Six, Actor	"Shoebox Zoo" (2004) {Friend or Foe? (#1.2)}  (voice)  [Character 6]  <7>
+		Broncho Billy and the Posse (1915)  <8>
+
+Seven, Actor	A Few Good Men (1992)  [Character 7]  <4>
+		Christmas in Rockefeller Center (2001) (TV)  [Character 7]
+		Comic Con 2012 Live (2012) (TV)  [Character 7]  <10>
+		Trapped (2002/I)  [Character 7]  <4>
+
+Eight, Actor	Christmas in Rockefeller Center (2001) (TV)  [Character 8]
+		Broncho Billy and the Posse (1915)  <8>
+
+Nine, Actor	"America's Game: The Superbowl Champions" (2006) {1996 Green Bay Packers (#1.5)}  [Character 9]
+		"Piers Morgan Tonight" (2011) {(2011-06-10)}  [Character 9]
+
