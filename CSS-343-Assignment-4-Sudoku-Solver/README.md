@@ -1,7 +1,7 @@
 # Project Description
 Assignment 4 - Sudoku Solver was an individual project created for CSS 343. Sudoku Solver was the final project for the course and required the use of object oriented programming techniques to be sucessfully completed.
 
-For the Sudoku Solver project, I designed and implement a set of classes that define the abstractions necessary to solve puzzles of any kind using genetic algorithms. I then produced concrete subclasses that implemented these interfaces for solving sudoku puzzles.
+For the Sudoku Solver project, I designed and implemented a set of classes that define the abstractions necessary to solve puzzles of any kind using genetic algorithms. I then produced concrete subclasses that implemented these interfaces for solving sudoku puzzles.
 
 **The interfaces and subclasses necessary for completing the project are:**\
 -- Population and SudokuPopulation Classes\
